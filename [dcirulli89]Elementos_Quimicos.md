@@ -248,6 +248,6 @@ linuspauling.append('1s\N{SUPERSCRIPT TWO}''2s\N{SUPERSCRIPT TWO}''2p\N{SUPERSCR
 
 
 
-i=int(input('Digite i:'))
+i=int(input('Digite o Z deo elemento desejado:'))
 print(numeroatomico(i))
 print('Distribuição eletrônica:',linuspauling[i-1], end="")
